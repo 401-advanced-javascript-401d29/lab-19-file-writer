@@ -1,5 +1,5 @@
 {
-  "name": "lab-19-message-queue-server",
+  "name": "lab-19-message-file-writer",
   "version": "1.0.0",
   "description": "![CF](http://i.imgur.com/7v5ASc8.png) LAB =================================================",
   "main": "app.js",
